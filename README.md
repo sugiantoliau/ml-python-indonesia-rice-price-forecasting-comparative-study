@@ -1,6 +1,6 @@
-# ml-python-indonesia-rice-price-forecasting-comparative-study
+ml-python-indonesia-rice-price-forecasting-comparative-study
 
-# A Comparative Study of Time Series Forecasting for Rice Prices Based on Quality Classification in Indonesia / Studi Komparatif Time Series Forecasting Harga Beras Berdasarkan Klasifikasi Kualitas di Indonesia
+## A Comparative Study of Time Series Forecasting for Rice Prices Based on Quality Classification in Indonesia / Studi Komparatif Time Series Forecasting Harga Beras Berdasarkan Klasifikasi Kualitas di Indonesia
 
 A Python-based machine learning project that builds a Decision Support System to forecast national monthly rice prices in Indonesia across three quality classifications (Premium, Medium, and SPHP) using data from January 2021 to February 2026. By utilizing Time Series Forecasting models like Linear Regression and Random Forest Regressor, this study provides stakeholders with accurate predictive tools to mitigate inflation risks, protect consumer purchasing power, and implement preventive measures to maintain national rice price stability.
 
